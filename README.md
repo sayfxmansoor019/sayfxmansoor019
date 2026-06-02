@@ -23,6 +23,8 @@ Building scalable backend systems, distributed architectures, and cloud native a
 
 Python • Django • FastAPI • PostgreSQL • Redis • Kafka • AWS • Azure • Docker • Kubernetes
 
+## Featured Projects
+
 ### Distributed Notification System
 Event driven notification platform built using FastAPI, Kafka, Redis, PostgreSQL, Prometheus, Grafana, Docker, and Kubernetes with support for asynchronous processing, retry mechanisms, DLQ handling, rate limiting, and observability.
 
