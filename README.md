@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Saif Mansoor 👋
 
-<!--
-**sayfxmansoor019/sayfxmansoor019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer @ ServiceSphere UG
 
-Here are some ideas to get you started:
+Backend Engineering | Distributed Systems | Cloud | AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Backend Software Engineer with 2+ years of experience
+- Building scalable backend systems using Python, Django, FastAPI, and PostgreSQL
+- Interested in Distributed Systems, System Design, Cloud Native Applications, and AI-powered Platforms
+- AWS Certified Cloud Practitioner
+- Microsoft Certified Azure Fundamentals
+
+## Tech Stack
+
+Python • Django • FastAPI • PostgreSQL • Redis • Kafka • AWS • Azure • Docker • Kubernetes
+
+## Featured Projects
+
+### Distributed Notification System
+Event-driven notification platform using Kafka, Redis, PostgreSQL, Prometheus, Grafana, Docker, and Kubernetes.
+
+### Video Intelligence Platform
+Multimodal AI platform for transcription, emotion analysis, and conversation intelligence.
+
+### Document Intelligence Platform
+RAG-powered semantic search system using LangChain, OpenAI Embeddings, and FAISS.
+
+### Azure MLOps Pipeline
+End-to-end MLOps workflow using Azure ML, AKS, and Azure Pipelines.
+
+## Currently Learning
+
+- Advanced System Design
+- Distributed Systems
+- Go
+- High Scale Backend Architecture
+
+## Connect With Me
+
+LinkedIn: linkedin.com/in/saif-mansoor
