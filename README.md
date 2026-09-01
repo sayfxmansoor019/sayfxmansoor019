@@ -1,61 +1,47 @@
 # Hi, I'm Saif Mansoor 👋
+Software Engineer @ ServiceSphere UG (Backend Engineering | Applied AI)
 
-Software Engineer @ ServiceSphere UG ( Backend Engineering | Distributed Systems | Cloud Native Systems | AI )
-
-Building scalable backend systems, distributed architectures, and cloud native applications using Python, PostgreSQL, Kafka, Redis, AWS, and Azure.
+Building scalable backend systems and AI-integrated APIs using Python, Django, PostgreSQL, AWS, and Azure.
 
 ## About Me
-
 - Backend Software Engineer with 2+ years of experience
-- Building scalable backend systems using Python, Django, FastAPI, and PostgreSQL
-- Interested in Distributed Systems, System Design, Cloud Native Applications, and AI powered Platforms
+- Building production REST APIs and data systems using Python, Django, and PostgreSQL
+- Focused on backend engineering with applied AI/LLM integration
 - AWS Certified Cloud Practitioner
-- Microsoft Certified Azure Fundamentals
+- Microsoft Certified: Azure Fundamentals
 
 ## Current Focus
-
-- Building distributed systems and event driven architectures
-- Deepening expertise in system design and scalability
-- Exploring Go for high performance backend services
-- Preparing for product engineering and FAANG level interviews
+- Deepening expertise in system design and backend scalability
+- Building async/event-driven processing patterns (Celery, Redis)
+- Casually exploring Go
+- Working toward stronger system design fundamentals for future interviews
 
 ## Tech Stack
-
-Python • Django • FastAPI • PostgreSQL • Redis • Kafka • AWS • Azure • Docker • Kubernetes
+Python • Django • Django REST Framework • PostgreSQL • Redis • Celery • AWS • Azure • Docker • Kubernetes
 
 ## Featured Projects
 
-### Distributed Notification System
-Event driven notification platform built using FastAPI, Kafka, Redis, PostgreSQL, Prometheus, Grafana, Docker, and Kubernetes with support for asynchronous processing, retry mechanisms, DLQ handling, rate limiting, and observability.
+### AI Resume-JD Matcher API
+Backend API that extracts structured data from a resume and job description using an LLM, then computes a match score and gap analysis. Built with an async architecture (Celery + Redis) so the API responds in ~20ms while extraction and scoring run in background workers. Includes a provider-agnostic LLM extraction layer with a mock mode for cost-free testing, JWT auth, per-user rate limiting, and a fully containerized stack via Docker Compose.
+**Tech:** Django REST Framework · PostgreSQL · Celery · Redis · Anthropic API · JWT · Docker Compose
 
-### Home Services Platform
-Production grade backend platform connecting customers with verified service providers through quotation, booking, and service management workflows using Django, PostgreSQL, AWS, and AI powered voice to text and renovation preview capabilities.
-
-### Enterprise Service Management Portal
-Enterprise administration platform developed to manage provider onboarding, account verification, service configuration, revenue tracking, workflow governance, and operational oversight through secure REST APIs and role based access control.
+### RAG-Powered Document Intelligence System
+Retrieval-augmented generation system for natural-language querying over government scheme and policy documents. Built the embedding and retrieval pipeline using LangChain, Sentence Transformers, and FAISS to surface structured insights from unstructured content.
+**Tech:** Python · LangChain · FAISS · Vector Databases · NLP · Streamlit
 
 ### Video Intelligence Platform
-Multimodal AI platform that transforms recorded conversations into transcripts, emotion insights, delivery analysis, and conversation intelligence using SpeechBrain, Wav2Vec2, PyTorch, and LLM powered processing.
-
-### Document Intelligence Platform
-RAG powered semantic search system using LangChain, OpenAI Embeddings, FAISS, and retrieval pipelines to enable intelligent document search, summarization, and question answering across unstructured content.
-
-### Azure MLOps Pipeline
-End to end MLOps workflow built using Azure ML, AKS, Azure Pipelines, Flask, and Python to automate model deployment, CI/CD, and scalable cloud native inference.
+Multimodal platform that transforms recorded conversations into timestamped transcripts, emotion annotations, and conversation summaries using speech recognition and LLM-powered processing.
+**Tech:** Python · PyTorch · SpeechBrain · Wav2Vec2 · NLP · Streamlit
 
 ## Currently Learning
-
-- Advanced System Design
-- Distributed Systems
-- Go
-- High Scale Backend Architecture
+- System Design (deepening fundamentals)
+- Async & event-driven processing patterns
+- Go (casual exploration)
 
 ## Certifications
-
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - AWS Certified Cloud Practitioner (CLF-C02)
 
 ## Connect With Me
-
 - LinkedIn: https://linkedin.com/in/saif-mansoor
 - GitHub: https://github.com/sayfxmansoor019
